@@ -13,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - PlayerHands
+  - Button
+  - ButtonTrigger
   - 
   - 
   - 
